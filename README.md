@@ -7,6 +7,8 @@
 
 ##  Мої основні проекти
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laucsmeee)](https://github.com/anuraghazra/github-readme-stats)
+
 ###  Anime Genre Explorer
 - Отримує жанри та популярні аніме через **AniList API** (GraphQL).  
 - Випадковим чином обирає одне популярне аніме.  
