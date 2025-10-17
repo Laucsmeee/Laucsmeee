@@ -17,7 +17,7 @@
 anime = random.choice(anime2["data"]["Page"]["media"])
 print(anime['title']['romaji'], anime['genres'])
 ```
-Money Tracker
+ # Money Tracker
 
 Консольна програма для обліку витрат у CSV.
 
