@@ -8,19 +8,19 @@
 
 ---
 
-## 🎓 Education  
+##  Education  
 **University “Krok”** — *B.Sc. in Computer Science (in progress)*  
-📅 2023 – Present  
+ 2023 – Present  
 
 ---
 
-## 💻 Technical Skills  
+##  Technical Skills  
 **Languages & Tools:** Python, FastAPI, SQLite, pandas, numpy, scikit-learn, matplotlib, requests, dotenv, Tkinter, Git, GitHub  
 **Concepts:** REST API development, data processing, basic machine learning, GUI development  
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
 ### 1. FastAPIProject  
 **Description:** Web App & Discord Bot Integration  
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌟 Strengths  
+##  Strengths  
 - Fast learner and highly motivated  
 - Experience with REST APIs and basic ML  
 - Confident Git/GitHub workflow  
@@ -72,7 +72,7 @@
 
 ---
 
-## 🎯 Career Goal  
+##  Career Goal  
 Looking for a **Trainee / Junior Python Developer** position  
 to apply skills in Python, REST API, and data processing,  
 and grow professionally in backend and ML development.  
